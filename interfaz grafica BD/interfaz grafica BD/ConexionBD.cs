@@ -35,7 +35,7 @@ namespace interfaz_grafica_BD
             string cadenaConexion = "server=" + servidor + "; port=" + puerto + "; user id=" + usuario + "; password=" + contraseña + "; database=" + basededatos + ";";
 
             MySqlConnection connectionBD = new MySqlConnection(cadenaConexion);
-            //tuckson
+            
 
             try
             {
