@@ -1,0 +1,19 @@
+C:\Users\Satos\source\repos\interfaz grafica BD\interfaz grafica BD\bin\Debug\net5.0-windows\interfaz grafica BD.exe
+C:\Users\Satos\source\repos\interfaz grafica BD\interfaz grafica BD\bin\Debug\net5.0-windows\interfaz grafica BD.deps.json
+C:\Users\Satos\source\repos\interfaz grafica BD\interfaz grafica BD\bin\Debug\net5.0-windows\interfaz grafica BD.runtimeconfig.json
+C:\Users\Satos\source\repos\interfaz grafica BD\interfaz grafica BD\bin\Debug\net5.0-windows\interfaz grafica BD.runtimeconfig.dev.json
+C:\Users\Satos\source\repos\interfaz grafica BD\interfaz grafica BD\bin\Debug\net5.0-windows\interfaz grafica BD.dll
+C:\Users\Satos\source\repos\interfaz grafica BD\interfaz grafica BD\bin\Debug\net5.0-windows\ref\interfaz grafica BD.dll
+C:\Users\Satos\source\repos\interfaz grafica BD\interfaz grafica BD\bin\Debug\net5.0-windows\interfaz grafica BD.pdb
+C:\Users\Satos\source\repos\interfaz grafica BD\interfaz grafica BD\obj\Debug\net5.0-windows\interfaz grafica BD.csproj.AssemblyReference.cache
+C:\Users\Satos\source\repos\interfaz grafica BD\interfaz grafica BD\obj\Debug\net5.0-windows\interfaz_grafica_BD.Form1.resources
+C:\Users\Satos\source\repos\interfaz grafica BD\interfaz grafica BD\obj\Debug\net5.0-windows\interfaz grafica BD.csproj.GenerateResource.cache
+C:\Users\Satos\source\repos\interfaz grafica BD\interfaz grafica BD\obj\Debug\net5.0-windows\interfaz grafica BD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Satos\source\repos\interfaz grafica BD\interfaz grafica BD\obj\Debug\net5.0-windows\interfaz grafica BD.AssemblyInfoInputs.cache
+C:\Users\Satos\source\repos\interfaz grafica BD\interfaz grafica BD\obj\Debug\net5.0-windows\interfaz grafica BD.AssemblyInfo.cs
+C:\Users\Satos\source\repos\interfaz grafica BD\interfaz grafica BD\obj\Debug\net5.0-windows\interfaz grafica BD.csproj.CoreCompileInputs.cache
+C:\Users\Satos\source\repos\interfaz grafica BD\interfaz grafica BD\obj\Debug\net5.0-windows\interfaz grafica BD.dll
+C:\Users\Satos\source\repos\interfaz grafica BD\interfaz grafica BD\obj\Debug\net5.0-windows\ref\interfaz grafica BD.dll
+C:\Users\Satos\source\repos\interfaz grafica BD\interfaz grafica BD\obj\Debug\net5.0-windows\interfaz grafica BD.pdb
+C:\Users\Satos\source\repos\interfaz grafica BD\interfaz grafica BD\obj\Debug\net5.0-windows\interfaz grafica BD.genruntimeconfig.cache
+C:\Users\Satos\source\repos\interfaz grafica BD\interfaz grafica BD\obj\Debug\net5.0-windows\interfaz_grafica_BD.Properties.Resources.resources
